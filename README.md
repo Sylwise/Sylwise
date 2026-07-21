@@ -16,7 +16,7 @@ Currently building **Reitera** — a spaced repetition SaaS — with Java and Sp
 
 ## Proyectos
 
-**[Reitera](https://github.com/Sylwise/reitera)** — Spaced repetition SaaS · Spring Boot + JWT + MySQL · En desarrollo  
+**[Reitera](https://github.com/Sylwise/reitera)** — Spaced repetition SaaS · Spring Boot + JWT + MySQL · [Live](https://www.reitera.dev/)    
 **[Control de Caducidades](https://github.com/Sylwise/control-caducidades)** — Multi-tenant SaaS para restauración · MERN + Socket.IO · [Live](https://caducidades.es)  
 **[Wanak Restaurantes](https://www.wanakrestaurantes.com/)** — Portal corporativo para franquicia de restauración · HTML + CSS + JS · [Live](https://www.wanakrestaurantes.com/)  
 **[Soldaduras Roco](https://github.com/Sylwise/soldaduras-roco)** — Landing page corporativa · [Live](https://soldadurasroco.es)  
