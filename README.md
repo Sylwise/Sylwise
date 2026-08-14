@@ -1,6 +1,7 @@
 # Pencho Danielov Deskov
 
-DAW student transitioning from 10 years of operational management into backend development.
+DAW student transitioning from 10 years of operational management into backend development. 
+Built **Reitera** — a spaced repetition SaaS — with Java and Spring Boot.
 
 ## Stack
 
@@ -13,12 +14,12 @@ DAW student transitioning from 10 years of operational management into backend d
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## Proyectos
+## Projects
 
-**[Reitera](https://github.com/Sylwise/reitera)** — Spaced repetition SaaS · Spring Boot + JWT + MySQL · [Live](https://www.reitera.dev/)    
-**[Wanak Restaurantes](https://www.wanakrestaurantes.com/)** — Portal corporativo para franquicia de restauración · HTML + CSS + JS · [Live](https://www.wanakrestaurantes.com/)
+**[Reitera](https://github.com/Sylwise/reitera)** — Java, Spring Boot, Spring Security (JWT), MySQL, layered REST API, JPQL aggregate stats · [Live](https://www.reitera.dev/)    
+**[Wanak Restaurantes](https://www.wanakrestaurantes.com/)** — Corporate site for a 7-restaurant franchise · HTML + CSS + JS · [Live](https://www.wanakrestaurantes.com/)
 
-## Contacto
+## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/penchodeskov)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox&logoColor=white)](https://pencho.es)
