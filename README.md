@@ -16,7 +16,7 @@ Built **Reitera** — a spaced repetition SaaS — with Java and Spring Boot.
 
 ## Projects
 
-**[Reitera](https://github.com/Sylwise/reitera)** — Java, Spring Boot, Spring Security (JWT), MySQL, layered REST API, JPQL aggregate stats · [Live](https://www.reitera.dev/)    
+**[Reitera](https://github.com/Sylwise/reitera)** — Java, Spring Boot, Spring Security (JWT), PostgreSQL, layered REST API, JPQL aggregate stats · [Live](https://www.reitera.dev/)    
 **[Wanak Restaurantes](https://www.wanakrestaurantes.com/)** — Corporate site for a 7-restaurant franchise · HTML + CSS + JS · [Live](https://www.wanakrestaurantes.com/)
 
 ## Contact
